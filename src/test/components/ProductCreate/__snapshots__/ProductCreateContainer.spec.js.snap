@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ProductCreateContainer/> should match snapchot 1`] = `ShallowWrapper {}`;
